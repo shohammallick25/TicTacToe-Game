@@ -92,3 +92,16 @@ main {
 #restartBtn:hover {
     background: #2A2343;
 }
+.neon-title {
+  text-align: center;
+  font-size: 3rem;
+  color: #d100ff;
+  text-shadow:
+    0 0 5px #d100ff,
+    0 0 10px #d100ff,
+    0 0 20px #d100ff,
+    0 0 40px #8e2de2,
+    0 0 80px #8e2de2;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 20px 0;
+}
