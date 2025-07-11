@@ -101,8 +101,9 @@ main {
     0 0 5px #d100ff,
     0 0 10px #d100ff,
     0 0 20px #d100ff,
-    0 0 40px #8e2de2,
-    0 0 80px #8e2de2;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin: 20px 0;
+    0 0 30px #a600ff,
+    0 0 40px #a600ff;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 20px 0 10px;
+  background: transparent;
 }
