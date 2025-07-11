@@ -93,17 +93,3 @@ main {
     background: #2A2343;
 }
 
-.neon-title {
-  text-align: center;
-  font-size: 3rem;
-  color: #d100ff;
-  text-shadow:
-    0 0 5px #d100ff,
-    0 0 10px #d100ff,
-    0 0 20px #d100ff,
-    0 0 30px #a600ff,
-    0 0 40px #a600ff;
-  font-family: 'Segoe UI', sans-serif;
-  margin: 20px 0 10px;
-  background: transparent;
-}
